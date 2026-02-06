@@ -1,0 +1,195 @@
+[
+    { 
+      "id":"BOOK-001" ,
+      "title": "De oud man en de zee",
+      "description":"Een klassieke novelle van Ernest Hemingway over Santiago, een oude Cubaanse visser die een epische strijd aangaat met een enorme marlín ver op zee. Het verhaal draait om doorzettingsvermogen, trots, eenzaamheid en de kracht van de menselijke geest. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Spaans, Nederlands, Frans en Duits.",
+      "pages":127,
+      "rating": 4.2 ,
+      "isAvailable":true ,
+      "releaseDate":"1952-09-01" ,
+      "genre": "Avontuur",
+      "imageUrl": ,
+      "themes": ["Doorzettingsvermogen" ,"Eenzaamheid", "Moed", "Strijd"],
+      "author" :
+     {
+        "id" : "AURTHOR-101",
+        "name":"Ernest Hemingway",
+        "birthYear":1899  ,
+        "nationality":"Amerikaans" ,
+        "authorImageUrl": ,
+        "isAwardWwinner": true,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    },
+    { "id": ,
+      "title": ,
+      "discription": ,
+      "page": ,
+      "rating": ,
+      "isAvailable": ,
+      "releaseDate": ,
+      "genre": ,
+      "imageUrl": ,
+      "themes": [],
+      "author" :
+     {
+        "id" : ,
+        "name": ,
+        "birthyear": ,
+        "nathionality": ,
+        "authorImageUrl": ,
+        "isAwardWwinner": ,
+     }
+    
+    }
+
+   
+]
