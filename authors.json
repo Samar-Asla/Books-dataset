@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "AUTHOR-001",
+        "name":"Ernest Hemingway",
+        "birthYear":1899,
+        "nationality":"Amerikaans" ,
+        "authorImageUrl": ,
+        "isAwardWwinner": true
+     },
+      {
+        "id" :"AUTHOR-002" ,
+        "name":"J.R.R. Tolkien" ,
+        "birthyear":1892 ,
+        "nathionality":"Brits" ,
+        "authorImageUrl": ,
+        "isAwardWwinner": true,
+     },
+     {
+        "id" : "AUTHOR-003",
+        "name": "J.R. Rowling",
+        "birthyear":1965 ,
+        "nathionality":"Brits" ,
+        "authorImageUrl": ,
+        "isAwardWwinner": true
+     },
+     {
+        "id" : "AUTHOR-004",
+        "name": "Antoine de Saint-Exupéry ",
+        "birthyear": 1900,
+        "nathionality":"Frans" ,
+        "authorImageUrl": ,
+        "isAwardWwinner":true 
+     },
+     {
+        "id" :"AUTHOR-005" ,
+        "name":"Paulo Coelho" ,
+        "birthyear":1947 ,
+        "nathionality":"Braziliaans" ,
+        "authorImageUrl": ,
+        "isAwardWwinner": true
+     },
+     {
+        "id" :"AUTHOR-006" ,
+        "name":"Stephen Hawking" ,
+        "birthyear":1942 ,
+        "nathionality": "Brits",
+        "authorImageUrl": ,
+        "isAwardWwinner":true 
+     },
+
+    {
+        "id" :"AUTHOR-007",
+        "name":"Walter Isaacson" ,
+        "birthyear":1952,
+        "nathionality":"Amerikaans" ,
+        "authorImageUrl": ,
+        "isAwardWwinner":true 
+     },
+    {
+        "id" : "AUTHOR-008",
+        "name": "Plato",
+        "birthyear":-428 ,
+        "nathionality": "Grieks",
+        "authorImageUrl": ,
+        "isAwardWwinner": false
+     },
+     {
+        "id" :"AUTHOR-009" ,
+        "name": "Brenda Froyen",
+        "birthyear":1976 ,
+        "nathionality":"Belgisch" ,
+        "authorImageUrl": ,
+        "isAwardWwinner":false 
+     },
+     {
+        "id" :"AUTHOR-010" ,
+        "name": "Stef Desodt",
+        "birthyear":1950 ,
+        "nathionality":"Belgisch",
+        "authorImageUrl": ,
+        "isAwardWwinner":false
+     }
+
+
+
+]
