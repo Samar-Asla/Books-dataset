@@ -8,7 +8,7 @@
       "isAvailable":true ,
       "releaseDate":"1952-09-01" ,
       "genre": "Avontuur",
-      "imageUrl": ,
+      "imageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Book1.png" ,
       "themes": ["Doorzettingsvermogen" ,"Eenzaamheid", "Moed", "Strijd"],
       "author" :
      {
@@ -16,7 +16,7 @@
         "name":"Ernest Hemingway",
         "birthYear":1899,
         "nationality":"Amerikaans" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png",
         "isAwardWwinner": true
      }
     
@@ -29,7 +29,7 @@
       "isAvailable":true ,
       "releaseDate":"1937-09-21" ,
       "genre":"Fantasy" ,
-      "imageUrl": ,
+      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Hobbit%20Book%20Cove.png",
       "themes": ["Avontuur", "Moed", "Vriendschap","Groie"],
       "author" :
      {
@@ -37,7 +37,7 @@
         "name":"J.R.R. Tolkien" ,
         "birthyear":1892 ,
         "nathionality":"Brits" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png",
         "isAwardWwinner": true,
      }
     
@@ -51,7 +51,7 @@
       "isAvailable":true ,
       "releaseDate":"1997-06-26" ,
       "genre": "Fantasy",
-      "imageUrl":  ,
+      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Harry%20Potter.png" ,
       "themes": ["Vriendschap", "Magie", "Moed","Goed versus kwaad"],
       "author" :
      {
@@ -59,7 +59,7 @@
         "name": "J.R. Rowling",
         "birthyear":1965 ,
         "nathionality":"Brits" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
         "isAwardWwinner": true
      }
     
@@ -72,7 +72,7 @@
       "isAvailable":true ,
       "releaseDate": "1943-04-06",
       "genre":"Filosofie" ,
-      "imageUrl": ,
+      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/De%20kleine%20prins.png",
       "themes": ["Vriendschap", "Liefde", "Verlies", "Verwondering"],
       "author" :
      {
@@ -80,7 +80,7 @@
         "name": "Antoine de Saint-Exupéry ",
         "birthyear": 1900,
         "nathionality":"Frans" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
         "isAwardWwinner":true 
      }
     
@@ -94,7 +94,7 @@
       "isAvailable":true ,
       "releaseDate":"1988-01-01" ,
       "genre":"Filosofie" ,
-      "imageUrl": ,
+      "imageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Alchemist%20by%20Pau.png" ,
       "themes": ["Dromen", "Zelfontdekking", "Reis", "Spiritualiteit" ],
       "author" :
      {
@@ -102,7 +102,7 @@
         "name":"Paulo Coelho" ,
         "birthyear":1947 ,
         "nathionality":"Braziliaans" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png",
         "isAwardWwinner": true
      }
     
@@ -115,7 +115,7 @@
       "isAvailable":true ,
       "releaseDate":"1988-04-01" ,
       "genre":"Wetenshap" ,
-      "imageUrl": ,
+      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Het%20heelal.png",
       "themes": ["Kosmologie","Ruimte-tijd", "Zwarte gaten", "Natuurwetten" ],
       "author" :
      {
@@ -128,7 +128,7 @@
      }
     
     },
-    { "id":"AUTHOR-007" ,
+    { "id":"BOOK-007" ,
       "title":"Steve Jobs",
       "discription":"Een uitgebreide biografie van Steve Jobs, geschreven door Walter Isaacson op basis van meer dan veertig interviews met Jobs zelf en gesprekken met familie, vrienden, collega's en concurrenten. Het boek vertelt het verhaal van zijn jeugd, de oprichting van Apple, zijn creatieve visie, zijn successen en mislukkingen, en zijn blijvende invloed op technologie en design." ,
       "page":656 ,
@@ -136,7 +136,7 @@
       "isAvailable":true,
       "releaseDate":"2011-10-24" ,
       "genre":"Biografie" ,
-      "imageUrl": ,
+      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Steve%20Jobs-Book.png",
       "themes": ["Innovatie", "Creativiteit", "Leiderschap", "Technologie"],
       "author" :
      {
@@ -165,7 +165,7 @@
         "name": "Plato",
         "birthyear":-428 ,
         "nathionality": "Grieks",
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png",
         "isAwardWwinner": false
      }
     
@@ -178,7 +178,7 @@
       "isAvailable":true ,
       "releaseDate":"2021-06-29" ,
       "genre": "komedie",
-      "imageUrl": ,
+      "imageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png" ,
       "themes": ["Humor", "Gezinsleven", "Dieren", "Avonturen"],
       "author" :
      {
@@ -200,7 +200,7 @@
       "isAvailable":true ,
       "releaseDate":"2008-9-23" ,
       "genre": "Educatief",
-      "imageUrl": ,
+      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Waarom-daarom.png",
       "themes": ["Leren", "Kinderen", "Vragen", "antwooeden"],
       "author" :
      {

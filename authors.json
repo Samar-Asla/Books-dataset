@@ -4,7 +4,7 @@
         "name":"Ernest Hemingway",
         "birthYear":1899,
         "nationality":"Amerikaans" ,
-        "authorImageUrl": ,
+        "authorImageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png" ,
         "isAwardWwinner": true
      },
       {
@@ -12,15 +12,15 @@
         "name":"J.R.R. Tolkien" ,
         "birthyear":1892 ,
         "nathionality":"Brits" ,
-        "authorImageUrl": ,
-        "isAwardWwinner": true,
+        "authorImageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png" ,
+        "isAwardWwinner": true
      },
      {
         "id" : "AUTHOR-003",
         "name": "J.R. Rowling",
         "birthyear":1965 ,
         "nathionality":"Brits" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
         "isAwardWwinner": true
      },
      {
@@ -28,7 +28,7 @@
         "name": "Antoine de Saint-Exupéry ",
         "birthyear": 1900,
         "nathionality":"Frans" ,
-        "authorImageUrl": ,
+        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
         "isAwardWwinner":true 
      },
      {
@@ -36,7 +36,7 @@
         "name":"Paulo Coelho" ,
         "birthyear":1947 ,
         "nathionality":"Braziliaans" ,
-        "authorImageUrl": ,
+        "authorImageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png" ,
         "isAwardWwinner": true
      },
      {
