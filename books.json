@@ -1,218 +1,205 @@
 [
-    { 
-      "id":"BOOK-001" ,
-      "title": "De oud man en de zee",
-      "description":"Een klassieke novelle van Ernest Hemingway over Santiago, een oude Cubaanse visser die een epische strijd aangaat met een enorme marlín ver op zee. Het verhaal draait om doorzettingsvermogen, trots, eenzaamheid en de kracht van de menselijke geest. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Spaans, Nederlands, Frans en Duits.",
-      "pages":127,
-      "rating": 4.2 ,
-      "isAvailable":true ,
-      "releaseDate":"1952-09-01" ,
-      "genre": "Avontuur",
-      "imageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Book1.png" ,
-      "themes": ["Doorzettingsvermogen" ,"Eenzaamheid", "Moed", "Strijd"],
-      "author" :
-     {
-        "id" : "AUTHOR-001",
-        "name":"Ernest Hemingway",
-        "birthYear":1899,
-        "nationality":"Amerikaans" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png",
-        "isAwardWwinner": true
-     }
-    
-    },
-    { "id":"BOOK-002" ,
-      "title":"De Hobbit" ,
-      "discription":"Een klassieke fantasieroman van J.R.R. Tolkien over Bilbo Balings, een rustige hobbit die onverwacht wordt meegenomen op een gevaarlijke en magische reis. Samen met een groep dwergen en de tovenaar Gandalf probeert hij een gestolen schat terug te winnen. Tijdens de reis ontdekt Bilbo moed, slimheid en kracht die hij nooit eerder in zichzelf had gezien. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Nederlands, Duits, Frans en Spaans." ,
-      "page":310 ,
-      "rating": 4.7,
-      "isAvailable":true ,
-      "releaseDate":"1937-09-21" ,
-      "genre":"Fantasy" ,
-      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Hobbit%20Book%20Cove.png",
-      "themes": ["Avontuur", "Moed", "Vriendschap","Groie"],
-      "author" :
-     {
-        "id" :"AUTHOR-002" ,
-        "name":"J.R.R. Tolkien" ,
-        "birthyear":1892 ,
-        "nathionality":"Brits" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png",
-        "isAwardWwinner": true,
-     }
-    
-    },
-    
-    { "id":"BOOK-003" ,
-      "title": "Harry Potter en de Steen der Wijzen",
-      "discription": "Het eerste deel van de wereldberoemde Harry Potter-reeks van J.K. Rowling. Het verhaal volgt Harry, een jonge jongen die ontdekt dat hij een tovenaar is en wordt toegelaten tot Zweinstein, een school voor hekserij en tovenarij. Samen met zijn vrienden Ron en Hermelien beleeft hij magische avonturen en komt hij oog in oog te staan met duistere krachten. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Nederlands, Frans, Duits, Spaans en vele andere." ,
-      "page":223 ,
-      "rating": 4.8,
-      "isAvailable":true ,
-      "releaseDate":"1997-06-26" ,
-      "genre": "Fantasy",
-      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Harry%20Potter.png" ,
-      "themes": ["Vriendschap", "Magie", "Moed","Goed versus kwaad"],
-      "author" :
-     {
-        "id" : "AUTHOR-003",
-        "name": "J.R. Rowling",
-        "birthyear":1965 ,
-        "nathionality":"Brits" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
-        "isAwardWwinner": true
-     }
-    
-    },
-    { "id": "BOOK-004",
-      "title":"De KLine Prins" ,
-      "discription": "Een poëtisch en filosofisch verhaal van Antoine de Saint-Exupéry over een jonge prins die van planeet naar planeet reist en onderweg bijzondere ontmoetingen heeft. Het boek onderzoekt thema’s zoals vriendschap, liefde, verlies en de waarde van kinderlijke verwondering. Het is wereldwijd beschikbaar in meerdere talen, waaronder Frans, Engels, Nederlands, Duits en Spaans.",
-      "page":96 ,
-      "rating":4.6 ,
-      "isAvailable":true ,
-      "releaseDate": "1943-04-06",
-      "genre":"Filosofie" ,
-      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/De%20kleine%20prins.png",
-      "themes": ["Vriendschap", "Liefde", "Verlies", "Verwondering"],
-      "author" :
-     {
-        "id" : "AUTHOR-004",
-        "name": "Antoine de Saint-Exupéry ",
-        "birthyear": 1900,
-        "nathionality":"Frans" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
-        "isAwardWwinner":true 
-     }
-    
-    },
-    { "id":"BOOK-005",
-      "title":"De Alchemist" ,
-      "discription":"De Alchemist",
-  "description": "Een spirituele en avontuurlijke roman van Paulo Coelho over Santiago, een jonge herder die op zoek gaat naar zijn persoonlijke schat. Tijdens zijn reis door de woestijn ontdekt hij de kracht van dromen, intuïtie en zelfvertrouwen. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Portugees, Engels, Nederlands, Frans, Duits en Spaans." ,
-      "page":208,
-      "rating": 4.5 ,
-      "isAvailable":true ,
-      "releaseDate":"1988-01-01" ,
-      "genre":"Filosofie" ,
-      "imageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Alchemist%20by%20Pau.png" ,
-      "themes": ["Dromen", "Zelfontdekking", "Reis", "Spiritualiteit" ],
-      "author" :
-     {
-        "id" :"AUTHOR-005" ,
-        "name":"Paulo Coelho" ,
-        "birthyear":1947 ,
-        "nathionality":"Braziliaans" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png",
-        "isAwardWwinner": true
-     }
-    
-    },
-    { "id": "BOOK-006",
-      "title":"Het Heelal" ,
-      "discription":"Een populairwetenschappelijk boek van Stephen Hawking waarin complexe concepten zoals zwarte gaten, de oerknal, ruimte-tijd en de natuurwetten op een toegankelijke manier worden uitgelegd. Het boek biedt een fascinerende blik op de oorsprong en structuur van het universum. Het is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Nederlands, Duits, Frans en Spaans." ,
-      "page": 256 ,
-      "rating":4.6,
-      "isAvailable":true ,
-      "releaseDate":"1988-04-01" ,
-      "genre":"Wetenshap" ,
-      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Het%20heelal.png",
-      "themes": ["Kosmologie","Ruimte-tijd", "Zwarte gaten", "Natuurwetten" ],
-      "author" :
-     {
-        "id" :"AUTHOR-006" ,
-        "name":"Stephen Hawking" ,
-        "birthyear":1942 ,
-        "nathionality": "Brits",
-        "authorImageUrl": ,
-        "isAwardWwinner":true 
-     }
-    
-    },
-    { "id":"BOOK-007" ,
-      "title":"Steve Jobs",
-      "discription":"Een uitgebreide biografie van Steve Jobs, geschreven door Walter Isaacson op basis van meer dan veertig interviews met Jobs zelf en gesprekken met familie, vrienden, collega's en concurrenten. Het boek vertelt het verhaal van zijn jeugd, de oprichting van Apple, zijn creatieve visie, zijn successen en mislukkingen, en zijn blijvende invloed op technologie en design." ,
-      "page":656 ,
-      "rating": 4.5 ,
-      "isAvailable":true,
-      "releaseDate":"2011-10-24" ,
-      "genre":"Biografie" ,
-      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Steve%20Jobs-Book.png",
-      "themes": ["Innovatie", "Creativiteit", "Leiderschap", "Technologie"],
-      "author" :
-     {
-        "id" :"AUTHOR-007",
-        "name":"Walter Isaacson" ,
-        "birthyear":1952,
-        "nathionality":"Amerikaans" ,
-        "authorImageUrl": ,
-        "isAwardWwinner":true 
-     }
-    
-    },
-    { "id": "BOOK-008",
-      "title":"The Republic" ,
-      "discription":"Een klassiek filosofisch en politiek werk van Plato, geschreven rond de 4e eeuw v.Chr. Het boek onderzoekt rechtvaardigheid, de ideale staat, de rol van leiderschap en de aard van kennis. Het bevat beroemde concepten zoals de Allegorie van de Grot en vormt een van de belangrijkste teksten in de westerse filosofie en politieke theorie." ,
-      "page": 416,
-      "rating": 4.4,
-      "isAvailable":true ,
-      "releaseDate":"380 BC-01-01 " ,
-      "genre": "Historisch",
-      "imageUrl": ,
-      "themes": ["Rechtvaardigheid", "Politiek", "Kennis", "Filosofie"],
-      "author" :
-     {
-        "id" : "AUTHOR-008",
-        "name": "Plato",
-        "birthyear":-428 ,
-        "nathionality": "Grieks",
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png",
-        "isAwardWwinner": false
-     }
-    
-    },
-    { "id":"BOOK-009" ,
-      "title":"Een jaar met Wifi " ,
-      "discription": "Een humoristisch jeugdboek van Brenda Froyen over Wifi, een harige hond met een Instagram- en TikTok-account. Wifi komt uit Nederland maar woont bij een Belgisch gezin, wat leidt tot hilarische misverstanden. Het boek bevat 25 grappige en vertederende verhaaltjes over de avonturen van Wifi tijdens het jaar 2020." ,
-      "page": 128,
-      "rating": 4.8,
-      "isAvailable":true ,
-      "releaseDate":"2021-06-29" ,
-      "genre": "komedie",
-      "imageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png" ,
-      "themes": ["Humor", "Gezinsleven", "Dieren", "Avonturen"],
-      "author" :
-     {
-        "id" :"AUTHOR-009" ,
-        "name": "Brenda Froyen",
-        "birthyear":1976 ,
-        "nathionality":"Belgisch" ,
-        "authorImageUrl": ,
-        "isAwardWwinner":false 
-     }
-    
-    },
-
-    { "id":"BOOK-010" ,
-      "title":"Waarom? Daarom!" ,
-      "discription":"Een dubbelzijdig educatief boek met 300 vragen van kinderen en 300 verrassende antwoorden voor ouders, leerkrachten en begeleiders.", 
-      "page":300,
-      "rating": 4.7,
-      "isAvailable":true ,
-      "releaseDate":"2008-9-23" ,
-      "genre": "Educatief",
-      "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Waarom-daarom.png",
-      "themes": ["Leren", "Kinderen", "Vragen", "antwooeden"],
-      "author" :
-     {
-        "id" :"AUTHOR-010" ,
-        "name": "Stef Desodt",
-        "birthyear":1950 ,
-        "nathionality":"Belgisch",
-        "authorImageUrl": ,
-        "isAwardWwinner":false
-     }
-    
+  {
+    "id": "BOOK-001",
+    "title": "De oud man en de zee",
+    "description": "Een klassieke novelle van Ernest Hemingway over Santiago, een oude Cubaanse visser die een epische strijd aangaat met een enorme marlín ver op zee. Het verhaal draait om doorzettingsvermogen, trots, eenzaamheid en de kracht van de menselijke geest. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Spaans, Nederlands, Frans en Duits.",
+    "pages": 127,
+    "rating": 4.2,
+    "isAvailable": true,
+    "releaseDate": "1952-09-01",
+    "genre": "Avontuur",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Book1.png",
+    "themes": ["Doorzettingsvermogen", "Eenzaamheid", "Moed", "Strijd"],
+    "author": {
+      "id": "AUTHOR-001",
+      "name": "Ernest Hemingway",
+      "birthYear": 1899,
+      "nationality": "Amerikaans",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png",
+      "isAwardWwinner": true
     }
+  },
+  {
+    "id": "BOOK-002",
+    "title": "De Hobbit",
+    "discription": "Een klassieke fantasieroman van J.R.R. Tolkien over Bilbo Balings, een rustige hobbit die onverwacht wordt meegenomen op een gevaarlijke en magische reis. Samen met een groep dwergen en de tovenaar Gandalf probeert hij een gestolen schat terug te winnen. Tijdens de reis ontdekt Bilbo moed, slimheid en kracht die hij nooit eerder in zichzelf had gezien. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Nederlands, Duits, Frans en Spaans.",
+    "page": 310,
+    "rating": 4.7,
+    "isAvailable": true,
+    "releaseDate": "1937-09-21",
+    "genre": "Fantasy",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Hobbit%20Book%20Cove.png",
+    "themes": ["Avontuur", "Moed", "Vriendschap", "Groie"],
+    "author": {
+      "id": "AUTHOR-002",
+      "name": "J.R.R. Tolkien",
+      "birthyear": 1892,
+      "nathionality": "Brits",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png",
+      "isAwardWwinner": true
+    }
+  },
 
-   
+  {
+    "id": "BOOK-003",
+    "title": "Harry Potter en de Steen der Wijzen",
+    "discription": "Het eerste deel van de wereldberoemde Harry Potter-reeks van J.K. Rowling. Het verhaal volgt Harry, een jonge jongen die ontdekt dat hij een tovenaar is en wordt toegelaten tot Zweinstein, een school voor hekserij en tovenarij. Samen met zijn vrienden Ron en Hermelien beleeft hij magische avonturen en komt hij oog in oog te staan met duistere krachten. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Nederlands, Frans, Duits, Spaans en vele andere.",
+    "page": 223,
+    "rating": 4.8,
+    "isAvailable": true,
+    "releaseDate": "1997-06-26",
+    "genre": "Fantasy",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Harry%20Potter.png",
+    "themes": ["Vriendschap", "Magie", "Moed", "Goed versus kwaad"],
+    "author": {
+      "id": "AUTHOR-003",
+      "name": "J.R. Rowling",
+      "birthyear": 1965,
+      "nathionality": "Brits",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
+      "isAwardWwinner": true
+    }
+  },
+  {
+    "id": "BOOK-004",
+    "title": "De KLine Prins",
+    "discription": "Een poëtisch en filosofisch verhaal van Antoine de Saint-Exupéry over een jonge prins die van planeet naar planeet reist en onderweg bijzondere ontmoetingen heeft. Het boek onderzoekt thema’s zoals vriendschap, liefde, verlies en de waarde van kinderlijke verwondering. Het is wereldwijd beschikbaar in meerdere talen, waaronder Frans, Engels, Nederlands, Duits en Spaans.",
+    "page": 96,
+    "rating": 4.6,
+    "isAvailable": true,
+    "releaseDate": "1943-04-06",
+    "genre": "Filosofie",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/De%20kleine%20prins.png",
+    "themes": ["Vriendschap", "Liefde", "Verlies", "Verwondering"],
+    "author": {
+      "id": "AUTHOR-004",
+      "name": "Antoine de Saint-Exupéry ",
+      "birthyear": 1900,
+      "nathionality": "Frans",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
+      "isAwardWwinner": true
+    }
+  },
+  {
+    "id": "BOOK-005",
+    "title": "De Alchemist",
+    "discription": "De Alchemist",
+    "description": "Een spirituele en avontuurlijke roman van Paulo Coelho over Santiago, een jonge herder die op zoek gaat naar zijn persoonlijke schat. Tijdens zijn reis door de woestijn ontdekt hij de kracht van dromen, intuïtie en zelfvertrouwen. Het boek is wereldwijd beschikbaar in meerdere talen, waaronder Portugees, Engels, Nederlands, Frans, Duits en Spaans.",
+    "page": 208,
+    "rating": 4.5,
+    "isAvailable": true,
+    "releaseDate": "1988-01-01",
+    "genre": "Filosofie",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Alchemist%20by%20Pau.png",
+    "themes": ["Dromen", "Zelfontdekking", "Reis", "Spiritualiteit"],
+    "author": {
+      "id": "AUTHOR-005",
+      "name": "Paulo Coelho",
+      "birthyear": 1947,
+      "nathionality": "Braziliaans",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png",
+      "isAwardWwinner": true
+    }
+  },
+  {
+    "id": "BOOK-006",
+    "title": "Het Heelal",
+    "discription": "Een populairwetenschappelijk boek van Stephen Hawking waarin complexe concepten zoals zwarte gaten, de oerknal, ruimte-tijd en de natuurwetten op een toegankelijke manier worden uitgelegd. Het boek biedt een fascinerende blik op de oorsprong en structuur van het universum. Het is wereldwijd beschikbaar in meerdere talen, waaronder Engels, Nederlands, Duits, Frans en Spaans.",
+    "page": 256,
+    "rating": 4.6,
+    "isAvailable": true,
+    "releaseDate": "1988-04-01",
+    "genre": "Wetenshap",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Het%20heelal.png",
+    "themes": ["Kosmologie", "Ruimte-tijd", "Zwarte gaten", "Natuurwetten"],
+    "author": {
+      "id": "AUTHOR-006",
+      "name": "Stephen Hawking",
+      "birthyear": 1942,
+      "nathionality": "Brits",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stephen%20Ha.png",
+      "isAwardWwinner": true
+    }
+  },
+  {
+    "id": "BOOK-007",
+    "title": "Steve Jobs",
+    "discription": "Een uitgebreide biografie van Steve Jobs, geschreven door Walter Isaacson op basis van meer dan veertig interviews met Jobs zelf en gesprekken met familie, vrienden, collega's en concurrenten. Het boek vertelt het verhaal van zijn jeugd, de oprichting van Apple, zijn creatieve visie, zijn successen en mislukkingen, en zijn blijvende invloed op technologie en design.",
+    "page": 656,
+    "rating": 4.5,
+    "isAvailable": true,
+    "releaseDate": "2011-10-24",
+    "genre": "Biografie",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Steve%20Jobs-Book.png",
+    "themes": ["Innovatie", "Creativiteit", "Leiderschap", "Technologie"],
+    "author": {
+      "id": "AUTHOR-007",
+      "name": "Walter Isaacson",
+      "birthyear": 1952,
+      "nathionality": "Amerikaans",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Walter%20Isaacson.png",
+      "isAwardWwinner": true
+    }
+  },
+  {
+    "id": "BOOK-008",
+    "title": "The Republic",
+    "discription": "Een klassiek filosofisch en politiek werk van Plato, geschreven rond de 4e eeuw v.Chr. Het boek onderzoekt rechtvaardigheid, de ideale staat, de rol van leiderschap en de aard van kennis. Het bevat beroemde concepten zoals de Allegorie van de Grot en vormt een van de belangrijkste teksten in de westerse filosofie en politieke theorie.",
+    "page": 416,
+    "rating": 4.4,
+    "isAvailable": true,
+    "releaseDate": "380 BC-01-01 ",
+    "genre": "Historisch",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.png",
+    "themes": ["Rechtvaardigheid", "Politiek", "Kennis", "Filosofie"],
+    "author": {
+      "id": "AUTHOR-008",
+      "name": "Plato",
+      "birthyear": -428,
+      "nathionality": "Grieks",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png",
+      "isAwardWwinner": false
+    }
+  },
+  {
+    "id": "BOOK-009",
+    "title": "Een jaar met Wifi ",
+    "discription": "Een humoristisch jeugdboek van Brenda Froyen over Wifi, een harige hond met een Instagram- en TikTok-account. Wifi komt uit Nederland maar woont bij een Belgisch gezin, wat leidt tot hilarische misverstanden. Het boek bevat 25 grappige en vertederende verhaaltjes over de avonturen van Wifi tijdens het jaar 2020.",
+    "page": 128,
+    "rating": 4.8,
+    "isAvailable": true,
+    "releaseDate": "2021-06-29",
+    "genre": "komedie",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png",
+    "themes": ["Humor", "Gezinsleven", "Dieren", "Avonturen"],
+    "author": {
+      "id": "AUTHOR-009",
+      "name": "Brenda Froyen",
+      "birthyear": 1976,
+      "nathionality": "Belgisch",
+      "authorImageUrl": "https://github.com/Samar-Asla/Books-dataset/blob/main/assets/images/Brenda-Froyen.png?raw=true",
+      "isAwardWwinner": false
+    }
+  },
+
+  {
+    "id": "BOOK-010",
+    "title": "Waarom? Daarom!",
+    "discription": "Een dubbelzijdig educatief boek met 300 vragen van kinderen en 300 verrassende antwoorden voor ouders, leerkrachten en begeleiders.",
+    "page": 300,
+    "rating": 4.7,
+    "isAvailable": true,
+    "releaseDate": "2008-9-23",
+    "genre": "Educatief",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Waarom-daarom.png",
+    "themes": ["Leren", "Kinderen", "Vragen", "antwooeden"],
+    "author": {
+      "id": "AUTHOR-010",
+      "name": "Stef Desodt",
+      "birthyear": 1950,
+      "nathionality": "Belgisch",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stef.png",
+      "isAwardWwinner": false
+    }
+  }
 ]

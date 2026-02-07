@@ -1,86 +1,83 @@
 [
-    {
-        "id" : "AUTHOR-001",
-        "name":"Ernest Hemingway",
-        "birthYear":1899,
-        "nationality":"Amerikaans" ,
-        "authorImageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png" ,
-        "isAwardWwinner": true
-     },
-      {
-        "id" :"AUTHOR-002" ,
-        "name":"J.R.R. Tolkien" ,
-        "birthyear":1892 ,
-        "nathionality":"Brits" ,
-        "authorImageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png" ,
-        "isAwardWwinner": true
-     },
-     {
-        "id" : "AUTHOR-003",
-        "name": "J.R. Rowling",
-        "birthyear":1965 ,
-        "nathionality":"Brits" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
-        "isAwardWwinner": true
-     },
-     {
-        "id" : "AUTHOR-004",
-        "name": "Antoine de Saint-Exupéry ",
-        "birthyear": 1900,
-        "nathionality":"Frans" ,
-        "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
-        "isAwardWwinner":true 
-     },
-     {
-        "id" :"AUTHOR-005" ,
-        "name":"Paulo Coelho" ,
-        "birthyear":1947 ,
-        "nathionality":"Braziliaans" ,
-        "authorImageUrl":"https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png" ,
-        "isAwardWwinner": true
-     },
-     {
-        "id" :"AUTHOR-006" ,
-        "name":"Stephen Hawking" ,
-        "birthyear":1942 ,
-        "nathionality": "Brits",
-        "authorImageUrl": ,
-        "isAwardWwinner":true 
-     },
+  {
+    "id": "AUTHOR-001",
+    "name": "Ernest Hemingway",
+    "birthYear": 1899,
+    "nationality": "Amerikaans",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png",
+    "isAwardWwinner": true
+  },
+  {
+    "id": "AUTHOR-002",
+    "name": "J.R.R. Tolkien",
+    "birthyear": 1892,
+    "nathionality": "Brits",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png",
+    "isAwardWwinner": true
+  },
+  {
+    "id": "AUTHOR-003",
+    "name": "J.R. Rowling",
+    "birthyear": 1965,
+    "nathionality": "Brits",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
+    "isAwardWwinner": true
+  },
+  {
+    "id": "AUTHOR-004",
+    "name": "Antoine de Saint-Exupéry ",
+    "birthyear": 1900,
+    "nathionality": "Frans",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
+    "isAwardWwinner": true
+  },
+  {
+    "id": "AUTHOR-005",
+    "name": "Paulo Coelho",
+    "birthyear": 1947,
+    "nathionality": "Braziliaans",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png",
+    "isAwardWwinner": true
+  },
+  {
+    "id": "AUTHOR-006",
+    "name": "Stephen Hawking",
+    "birthyear": 1942,
+    "nathionality": "Brits",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stephen%20Ha.png",
+    "isAwardWwinner": true
+  },
 
-    {
-        "id" :"AUTHOR-007",
-        "name":"Walter Isaacson" ,
-        "birthyear":1952,
-        "nathionality":"Amerikaans" ,
-        "authorImageUrl": ,
-        "isAwardWwinner":true 
-     },
-    {
-        "id" : "AUTHOR-008",
-        "name": "Plato",
-        "birthyear":-428 ,
-        "nathionality": "Grieks",
-        "authorImageUrl": ,
-        "isAwardWwinner": false
-     },
-     {
-        "id" :"AUTHOR-009" ,
-        "name": "Brenda Froyen",
-        "birthyear":1976 ,
-        "nathionality":"Belgisch" ,
-        "authorImageUrl": ,
-        "isAwardWwinner":false 
-     },
-     {
-        "id" :"AUTHOR-010" ,
-        "name": "Stef Desodt",
-        "birthyear":1950 ,
-        "nathionality":"Belgisch",
-        "authorImageUrl": ,
-        "isAwardWwinner":false
-     }
-
-
-
+  {
+    "id": "AUTHOR-007",
+    "name": "Walter Isaacson",
+    "birthyear": 1952,
+    "nathionality": "Amerikaans",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Walter%20Isaacson.png",
+    "isAwardWwinner": true
+  },
+  {
+    "id": "AUTHOR-008",
+    "name": "Plato",
+    "birthyear": -428,
+    "nathionality": "Grieks",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.png",
+    "isAwardWwinner": false
+  },
+  {
+    "id": "AUTHOR-009",
+    "name": "Brenda Froyen",
+    "birthyear": 1976,
+    "nathionality": "Belgisch",
+    "authorImageUrl": "https://github.com/Samar-Asla/Books-dataset/blob/main/assets/images/Brenda-Froyen.png?raw=true",
+    "isAwardWwinner": false
+  },
+  {
+    "id": "AUTHOR-010",
+    "name": "Stef Desodt",
+    "birthyear": 1950,
+    "nathionality": "Belgisch",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stef.png",
+    "isAwardWwinner": false
+  }
 ]
