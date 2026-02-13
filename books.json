@@ -28,14 +28,14 @@
     "isAvailable": true,
     "releaseDate": "1937-09-21",
     "genre": "Fantasy",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Hobbit%20Book%20Cove.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Hobbit%20Book%20Cove.jpg",
     "themes": ["Avontuur", "Moed", "Vriendschap", "Groie"],
     "author": {
       "id": "AUTHOR-002",
       "name": "J.R.R. Tolkien",
       "birthyear": 1892,
       "nathionality": "Brits",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.jpg",
       "isAwardWwinner": true
     }
   },
@@ -49,14 +49,14 @@
     "isAvailable": true,
     "releaseDate": "1997-06-26",
     "genre": "Fantasy",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Harry%20Potter.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Harry%20Potter.jpg",
     "themes": ["Vriendschap", "Magie", "Moed", "Goed versus kwaad"],
     "author": {
       "id": "AUTHOR-003",
       "name": "J.R. Rowling",
       "birthyear": 1965,
       "nathionality": "Brits",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.jpg",
       "isAwardWwinner": true
     }
   },
@@ -69,7 +69,7 @@
     "isAvailable": true,
     "releaseDate": "1943-04-06",
     "genre": "Filosofie",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/De%20kleine%20prins.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/De%20kleine%20prins.jpg",
     "themes": ["Vriendschap", "Liefde", "Verlies", "Verwondering"],
     "author": {
       "id": "AUTHOR-004",
@@ -90,14 +90,14 @@
     "isAvailable": true,
     "releaseDate": "1988-01-01",
     "genre": "Filosofie",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Alchemist%20by%20Pau.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Alchemist%20by%20Pau.jpg",
     "themes": ["Dromen", "Zelfontdekking", "Reis", "Spiritualiteit"],
     "author": {
       "id": "AUTHOR-005",
       "name": "Paulo Coelho",
       "birthyear": 1947,
       "nathionality": "Braziliaans",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.jpg",
       "isAwardWwinner": true
     }
   },
@@ -110,14 +110,14 @@
     "isAvailable": true,
     "releaseDate": "1988-04-01",
     "genre": "Wetenshap",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Het%20heelal.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Het%20heelal.jpg",
     "themes": ["Kosmologie", "Ruimte-tijd", "Zwarte gaten", "Natuurwetten"],
     "author": {
       "id": "AUTHOR-006",
       "name": "Stephen Hawking",
       "birthyear": 1942,
       "nathionality": "Brits",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stephen%20Ha.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stephen%20Ha.jpg",
       "isAwardWwinner": true
     }
   },
@@ -130,14 +130,14 @@
     "isAvailable": true,
     "releaseDate": "2011-10-24",
     "genre": "Biografie",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Steve%20Jobs-Book.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Steve%20Jobs-Book.jpg",
     "themes": ["Innovatie", "Creativiteit", "Leiderschap", "Technologie"],
     "author": {
       "id": "AUTHOR-007",
       "name": "Walter Isaacson",
       "birthyear": 1952,
       "nathionality": "Amerikaans",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Walter%20Isaacson.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Walter%20Isaacson.jpg",
       "isAwardWwinner": true
     }
   },
@@ -150,14 +150,14 @@
     "isAvailable": true,
     "releaseDate": "380 BC-01-01 ",
     "genre": "Historisch",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.jpg",
     "themes": ["Rechtvaardigheid", "Politiek", "Kennis", "Filosofie"],
     "author": {
       "id": "AUTHOR-008",
       "name": "Plato",
       "birthyear": -428,
       "nathionality": "Grieks",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.jpg",
       "isAwardWwinner": false
     }
   },
@@ -170,14 +170,14 @@
     "isAvailable": true,
     "releaseDate": "2021-06-29",
     "genre": "komedie",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.jpg",
     "themes": ["Humor", "Gezinsleven", "Dieren", "Avonturen"],
     "author": {
       "id": "AUTHOR-009",
       "name": "Brenda Froyen",
       "birthyear": 1976,
       "nathionality": "Belgisch",
-      "authorImageUrl": "https://github.com/Samar-Asla/Books-dataset/blob/main/assets/images/Brenda-Froyen.png?raw=true",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Brenda-Froyen.jpg",
       "isAwardWwinner": false
     }
   },
@@ -191,14 +191,14 @@
     "isAvailable": true,
     "releaseDate": "2008-9-23",
     "genre": "Educatief",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Waarom-daarom.png",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Waarom-daarom.jpg",
     "themes": ["Leren", "Kinderen", "Vragen", "antwooeden"],
     "author": {
       "id": "AUTHOR-010",
       "name": "Stef Desodt",
       "birthyear": 1950,
       "nathionality": "Belgisch",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stef.png",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stef.jpg",
       "isAwardWwinner": false
     }
   }

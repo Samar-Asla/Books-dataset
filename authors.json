@@ -12,7 +12,7 @@
     "name": "J.R.R. Tolkien",
     "birthyear": 1892,
     "nathionality": "Brits",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.R.R.%20T.jpg",
     "isAwardWwinner": true
   },
   {
@@ -20,7 +20,7 @@
     "name": "J.R. Rowling",
     "birthyear": 1965,
     "nathionality": "Brits",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/J.K.%20Row.jpg",
     "isAwardWwinner": true
   },
   {
@@ -36,7 +36,7 @@
     "name": "Paulo Coelho",
     "birthyear": 1947,
     "nathionality": "Braziliaans",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/de%20Paulo%20C.jpg",
     "isAwardWwinner": true
   },
   {
@@ -44,7 +44,7 @@
     "name": "Stephen Hawking",
     "birthyear": 1942,
     "nathionality": "Brits",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stephen%20Ha.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stephen%20Ha.jpg",
     "isAwardWwinner": true
   },
 
@@ -53,7 +53,7 @@
     "name": "Walter Isaacson",
     "birthyear": 1952,
     "nathionality": "Amerikaans",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Walter%20Isaacson.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Walter%20Isaacson.jpg",
     "isAwardWwinner": true
   },
   {
@@ -61,7 +61,7 @@
     "name": "Plato",
     "birthyear": -428,
     "nathionality": "Grieks",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.jpg",
     "isAwardWwinner": false
   },
   {
@@ -69,7 +69,7 @@
     "name": "Brenda Froyen",
     "birthyear": 1976,
     "nathionality": "Belgisch",
-    "authorImageUrl": "https://github.com/Samar-Asla/Books-dataset/blob/main/assets/images/Brenda-Froyen.png?raw=true",
+    "authorImageUrl": "https://github.com/Samar-Asla/Books-dataset/blob/main/assets/images/Brenda-Froyen.jpg?raw=true",
     "isAwardWwinner": false
   },
   {
@@ -77,7 +77,7 @@
     "name": "Stef Desodt",
     "birthyear": 1950,
     "nathionality": "Belgisch",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stef.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Stef.jpg",
     "isAwardWwinner": false
   }
 ]
