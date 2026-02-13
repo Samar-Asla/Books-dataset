@@ -4,7 +4,7 @@
     "name": "Ernest Hemingway",
     "birthYear": 1899,
     "nationality": "Amerikaans",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Ernest%20Hemingway.jpg",
     "isAwardWwinner": true
   },
   {
@@ -28,7 +28,7 @@
     "name": "Antoine de Saint-Exupéry ",
     "birthyear": 1900,
     "nathionality": "Frans",
-    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.png",
+    "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Antoine%20de%20Saint.jpg",
     "isAwardWwinner": true
   },
   {
