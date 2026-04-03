@@ -149,14 +149,14 @@
     "isAvailable": true,
     "releaseDate": "380 BC-01-01 ",
     "genre": "Historisch",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.jpg",
     "themes": ["Rechtvaardigheid", "Politiek", "Kennis", "Filosofie"],
     "author": {
       "id": "AUTHOR-008",
       "name": "Plato",
       "birthYear": -428,
       "nationality": "Grieks",
-      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.jpg",
+      "authorImageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/Plato%20Portrait.jpg",
       "isAwardWinner": false
     }
   },
@@ -169,7 +169,7 @@
     "isAvailable": true,
     "releaseDate": "2021-06-29",
     "genre": "komedie",
-    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/The%20Republic.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Samar-Asla/Books-dataset/refs/heads/main/assets/images/wifi-book.jpg",
     "themes": ["Humor", "Gezinsleven", "Dieren", "Avonturen"],
     "author": {
       "id": "AUTHOR-009",
